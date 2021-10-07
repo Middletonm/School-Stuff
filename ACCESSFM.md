@@ -8,4 +8,4 @@ Safety | 8 | You ***could*** cut your finger on the edges if not used right
 Size | 10 | Fits the product perfectly with little space to get damaged
 Function | 10 | It is perfect for the job as the prduct fits perfectly
 Material | 10 | It uses a recylceable material, light weight, sturdy
-Total | 61/80 |
+Total | 71/80 | 
