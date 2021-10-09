@@ -12,7 +12,7 @@ Not to mention the fact the growing bamboo has a very positive environmental imp
 Research has shown that bamboo can absorb as much as 12 tonnes of carbon dioxide per [hectare](https://en.wikipedia.org/wiki/Hectare) per year.
 ### 
 ### ***How many cups of coffee do people carry per day ?***
-**The** average amout of coffee cup people carry per day is
+**The** average amout of coffee cup people carry per day is 2 cups
 ###
 ### ***How much does a coffee cup weigh ?***
 **The** average coffee cup weighs 8Oz, this is around 226 grams.
