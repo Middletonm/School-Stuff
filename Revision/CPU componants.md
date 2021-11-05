@@ -1,0 +1,4 @@
+In some processors, the ALU is divided into two units: an arithmetic unit (AU) and a logic unit (LU). Some processors contain more than one AU -- for example, one for fixed-point operations and another for floating-point operations.
+In computer systems, floating-point computations are sometimes done by a floating-point unit (FPU) on a separate chip called a numeric coprocessor.
+The control unit (CU) is a component of a computer's central processing unit
+Most computer resources are managed by the CU. It directs the flow of data between the CPU and the other devices. John von Neumann included the control unit as part of the von Neumann architecture. In modern computer designs, the control unit is typically an internal part of the CPU with its overall role and operation unchanged since its introduction
